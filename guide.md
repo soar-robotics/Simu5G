@@ -33,6 +33,6 @@ You should have working  [OMNeT++](http://omnetpp.org/)  and  [INET Framework](h
 6.  Run an examples by changing into one of the directories under 'simulations/NR', and executing "./run"
 
 #### Troubleshooting: 
-:bulb: After importing the Simu5G to OmNet++, you should change the preferences with "**inet**" from "**inet4**". 
+:bulb: After importing the Simu5G to OMNet++, you should change the preferences with "**inet**" from "**inet4**". 
 
 :bulb: Make sure that you have run "`. setenv`" in the `/bin` directory, if you follow the building Simu5G from IDE.
