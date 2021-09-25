@@ -30,7 +30,7 @@ You should have working  [OMNeT++](http://omnetpp.org/)  and  [INET Framework](h
 3.  Type ". setenv". This will add the Simu5g/bin directory to the PATH environment variable.
 4.  Type "make makefiles". This should generate the makefiles.
 5.  Type "make" to build the Simu5G executable (debug version). Use "make MODE=release" to build release version.
-6.  Run an examples by changing into one of the directories under 'simulations/NR', and executing "./run"
+6.  Run examples by changing into one of the directories under 'simulations/NR', and executing "./run"
 
 #### Troubleshooting: 
 :bulb: After importing the Simu5G to OMNet++, you should change the preferences with "**inet**" from "**inet4**". 
